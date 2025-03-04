@@ -1,0 +1,9 @@
+scikit-learn
+Flask
+pandas 
+numpy
+ipykernel
+matplotlib
+seaborn
+
+-e .  ##trigger the setup.py
