@@ -18,6 +18,6 @@ setup(
     version='0.0.1',
     author='Shreyash Jiwane',
     author_email="jiwaneshrey09@gmail.com",
-    install_requires =get_requirements('requirements.txt'),
-    packages=find_packages()
+    install_requires = get_requirements('requirements.txt'),
+    packages= find_packages()
 )

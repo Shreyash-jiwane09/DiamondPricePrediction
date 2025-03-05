@@ -6,4 +6,4 @@ ipykernel
 matplotlib
 seaborn
 
--e .  ##trigger the setup.py
+# -e .  ##trigger the setup.py
